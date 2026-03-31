@@ -22,3 +22,7 @@ If your model already exists, you will be asked if you want to
 - Train the 3rd layer aswell (Input Y if yes, anything else otherwise)
 - Train the 2nd layer aswell (Input Y if yes, anything else otherwise)
 - How many epochs need to be executed (Input a valid integer)
+
+## Performance 
+
+![Performance](performance.png)
